@@ -1,0 +1,71 @@
+	#typerow
+			{
+			background-color: #DFE3E8;
+			}
+	
+	#tfoot td		
+			
+			{
+			background-image: url("../images/footer.png");
+			border: none;
+			vertical-align: middle;
+			}
+			
+	#titles
+			
+			{
+			background-image: url("../images/footer.png"); 
+			}
+			
+	#info
+			{
+			background-color: #E7E9EB;
+			}
+		
+	table, td, th 
+			
+			{
+			border: 1px solid #B1ABDF;
+			text-align: left;
+			font-weight: normal;
+			}
+			
+	table
+			{
+			border-collapse: collapse;	
+			font-size: 10pt;
+			}
+	
+	#img, #idata, a
+			{
+			vertical-align: middle;
+			}
+			
+	a:hover 
+			{
+			border: 1px solid #B1ABDF;
+			}
+			
+	a
+			{
+			text-decoration: none;
+			color: black;
+			padding: 2px;
+			padding-left: 4px;
+			padding-right: 4px;
+			}
+			
+	.active 
+			{
+			border: 1px solid black;
+			-webkit-border-radius: 2px;
+			-moz-border-radius: 2px;
+			border-radius: 5px;
+			}
+
+	
+	.bbb
+			{
+			text-align: right;
+			}
+			

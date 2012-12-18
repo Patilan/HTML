@@ -1,0 +1,53 @@
+/** header */
+#body, body
+{
+	background-color:#92B901;
+ }
+
+
+/** header */
+#header, header, h1 
+{
+	text-align:center;
+	text-decoration:underline;
+}
+#header, h2
+{
+font-style: italic;
+}
+
+/** navigation */
+#navigation ul, nav ul
+{
+	list-style-type:none;
+}
+
+#navigation ul li, nav ul li
+{
+	float:left;
+	margin: 5px;
+	padding: 5px;
+}
+#navigation ul:after, nav ul:after
+{
+	clear:both;
+	display:block;
+	content:"";
+}
+/** section */
+#section, section>ol>li
+{
+font-style: italic;
+}
+
+#section, ul
+{
+list-style-type:none;
+margin-left: 0px;
+}
+
+/** footer */
+#footer, footer
+{
+	text-align:center;
+}
